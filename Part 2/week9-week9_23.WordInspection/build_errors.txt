@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Arnas\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_23.WordInspection\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Users\Arnas\Documents\IdeaProjects\TMCProjects\2013-OOProgrammingWithJava-PART2\week9-week9_23.WordInspection\nbproject\build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
